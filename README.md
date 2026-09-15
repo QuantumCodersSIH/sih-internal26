@@ -581,7 +581,7 @@ The demo should show:
 
 ### Deployed application
 
-`[ADD DEPLOYED APP URL IF AVAILABLE]`
+[sih-signalscope.streamlit.app](https://sih-signalscope.streamlit.app)
 
 ### GitHub Repository
 
