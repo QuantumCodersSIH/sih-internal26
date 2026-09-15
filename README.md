@@ -588,9 +588,7 @@ The demo should show:
 [GitHub Repository](https://github.com/QuantumCodersSIH/sih-internal26)
 
 
-```text
-Public deployment: Not deployed; reproducible locally with Streamlit.
-```
+
 
 ---
 
