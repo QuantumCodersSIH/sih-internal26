@@ -1,0 +1,23 @@
+{
+  "checkpoint": "models\\checkpoints\\best_model.pt",
+  "validation_csv": "data\\splits\\val.csv",
+  "temperature": 0.95,
+  "roc_auc": 0.9911977110524645,
+  "threshold_selection": {
+    "method": "macro_f1_with_fpr_at_most_0.05",
+    "probability_type": "temperature_scaled",
+    "threshold": 0.5599999999999997
+  },
+  "metrics": {
+    "threshold": 0.5599999999999997,
+    "accuracy": 0.9543,
+    "macro_f1": 0.954296540705166,
+    "fpr": 0.04955271886621771,
+    "tpr": 0.9581136205352702,
+    "tn": 9456,
+    "fp": 493,
+    "fn": 421,
+    "tp": 9630
+  },
+  "num_validation_samples": 20000
+}

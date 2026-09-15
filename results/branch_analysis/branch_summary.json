@@ -1,0 +1,38 @@
+[
+  {
+    "label": "REAL_false_positives",
+    "count": 567,
+    "full_probability_mean": 0.631244231830967,
+    "full_probability_median": 0.7087535858154297,
+    "spatial_only_mean": 0.6306917477601144,
+    "spatial_only_median": 0.7090989351272583,
+    "frequency_only_mean": 0.5093532631426682,
+    "frequency_only_median": 0.5094524025917053,
+    "mean_branch_disagreement": 0.27598137425988045,
+    "both_branches_ai_pct": 0.0,
+    "spatial_only_ai_pct": 62.08112874779541,
+    "frequency_only_ai_pct": 0.0,
+    "threshold": 0.56
+  },
+  {
+    "label": "FAKE_false_negatives",
+    "count": 301,
+    "full_probability_mean": 0.29860750230224925,
+    "full_probability_median": 0.31964120268821716,
+    "spatial_only_mean": 0.299055837314948,
+    "spatial_only_median": 0.31889548897743225,
+    "frequency_only_mean": 0.5091041471078942,
+    "frequency_only_median": 0.5093113780021667,
+    "mean_branch_disagreement": 0.21664623782745301,
+    "both_branches_ai_pct": 0.0,
+    "spatial_only_ai_pct": 0.0,
+    "frequency_only_ai_pct": 0.0,
+    "threshold": 0.56
+  },
+  {
+    "label": "combined",
+    "count": 868,
+    "mean_branch_disagreement": 0.2554054801744419,
+    "median_branch_disagreement": 0.2609662860631943
+  }
+]

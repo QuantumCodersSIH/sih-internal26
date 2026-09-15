@@ -1,9 +1,10 @@
+
+.venv/
 __pycache__/
 *.pyc
-.venv/
-venv/
-*.h5
-*.npy
-temp_upload.jpg
-.DS_Store
-cifake_data/
+TEMP_TEST/
+archive(2)/
+_signalscope_uploaded_image.jpg
+*.bak
+*.bak_*
+

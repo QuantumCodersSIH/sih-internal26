@@ -1,0 +1,82 @@
+[
+  {
+    "attack": "resize_8_roundtrip",
+    "samples": 200,
+    "flip_rate": 0.34,
+    "mean_abs_probability_change": 0.3567916391368544,
+    "real_flip_rate": 0.21,
+    "ai_flip_rate": 0.47
+  },
+  {
+    "attack": "resize_16_roundtrip",
+    "samples": 200,
+    "flip_rate": 0.165,
+    "mean_abs_probability_change": 0.19654665174754882,
+    "real_flip_rate": 0.09,
+    "ai_flip_rate": 0.24
+  },
+  {
+    "attack": "gaussian_blur",
+    "samples": 200,
+    "flip_rate": 0.06,
+    "mean_abs_probability_change": 0.09352433438397384,
+    "real_flip_rate": 0.05,
+    "ai_flip_rate": 0.07
+  },
+  {
+    "attack": "jpeg_50",
+    "samples": 200,
+    "flip_rate": 0.06,
+    "mean_abs_probability_change": 0.0556166361483082,
+    "real_flip_rate": 0.06,
+    "ai_flip_rate": 0.06
+  },
+  {
+    "attack": "contrast_high",
+    "samples": 200,
+    "flip_rate": 0.055,
+    "mean_abs_probability_change": 0.045239748907325746,
+    "real_flip_rate": 0.09,
+    "ai_flip_rate": 0.02
+  },
+  {
+    "attack": "contrast_low",
+    "samples": 200,
+    "flip_rate": 0.05,
+    "mean_abs_probability_change": 0.06407362826753342,
+    "real_flip_rate": 0.02,
+    "ai_flip_rate": 0.08
+  },
+  {
+    "attack": "gaussian_noise",
+    "samples": 200,
+    "flip_rate": 0.04,
+    "mean_abs_probability_change": 0.04661336628513709,
+    "real_flip_rate": 0.02,
+    "ai_flip_rate": 0.06
+  },
+  {
+    "attack": "brightness_low",
+    "samples": 200,
+    "flip_rate": 0.04,
+    "mean_abs_probability_change": 0.04407126616627465,
+    "real_flip_rate": 0.05,
+    "ai_flip_rate": 0.03
+  },
+  {
+    "attack": "jpeg_70",
+    "samples": 200,
+    "flip_rate": 0.02,
+    "mean_abs_probability_change": 0.015277086764771184,
+    "real_flip_rate": 0.03,
+    "ai_flip_rate": 0.01
+  },
+  {
+    "attack": "brightness_high",
+    "samples": 200,
+    "flip_rate": 0.015,
+    "mean_abs_probability_change": 0.0314447976997235,
+    "real_flip_rate": 0.0,
+    "ai_flip_rate": 0.03
+  }
+]
