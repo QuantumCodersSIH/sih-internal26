@@ -587,7 +587,6 @@ The demo should show:
 
 [GitHub Repository](https://github.com/QuantumCodersSIH/sih-internal26)
 
-If there is no public deployment, leave this as:
 
 ```text
 Public deployment: Not deployed; reproducible locally with Streamlit.
