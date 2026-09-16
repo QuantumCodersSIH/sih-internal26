@@ -7,6 +7,9 @@ SignalScope is a computer-vision forensic screening tool that classifies a singl
 > **Hackathon focus:** strong real-vs-AI classification, generalization, faithful explanation, robustness/failure analysis, metadata inspection, and a reproducible Streamlit demo.
 
 ---
+### Deployed application
+
+[sih-signalscope.streamlit.app](https://sih-signalscope.streamlit.app)
 
 ## 1. What SignalScope Builds
 
@@ -579,9 +582,7 @@ The demo should show:
 8. Active Defence / robustness results.
 9. Responsible-use limitation.
 
-### Deployed application
 
-[sih-signalscope.streamlit.app](https://sih-signalscope.streamlit.app)
 
 ### GitHub Repository
 
